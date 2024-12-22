@@ -11,7 +11,6 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1",
-    "react-speech-recognition": "^3.10.0",
     "retell-client-js-sdk": "^2.0.4",
     "stream-browserify": "^3.0.0",
     "util": "^0.12.5"
